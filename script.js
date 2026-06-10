@@ -6,9 +6,7 @@ let markedStudents = new Set();
 
 const allStudents = [
     { id: "ST001", name: "Sandaru" },
-    { id: "ST002", name: "Nirmal" },
-    { id: "ST003", name: "Akash" },
-    { id: "ST004", name: "Manu" }
+    { id: "ST002", name: "Nirmal" }
 
 
 ];
